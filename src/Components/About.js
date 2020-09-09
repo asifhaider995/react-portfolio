@@ -1,4 +1,5 @@
 import React from 'react';
+import Resume from '../files/Resume.pdf';
 
 function About (props) {
   if(props.data){
@@ -16,7 +17,12 @@ function About (props) {
 
   function handleDownload (event) {
     event.preventDefault();
-    
+    const link = document.createElement('a');
+    link.href = Resume;
+    link.target ='_blank';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
   }
 
   return (

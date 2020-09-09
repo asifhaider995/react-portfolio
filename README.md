@@ -1,20 +1,22 @@
-# Clever Programmer ReactJS Portfolio Template      
+# Original Version
 
-## 👇 WATCH THIS FIRST 👇
-## https://tinyurl.com/customizeReactPortfolio
+## Clever Programmer ReactJS Portfolio Template      
+
+### 👇 WATCH THIS FIRST 👇
+### https://tinyurl.com/customizeReactPortfolio
 
 ![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
 
-## <a href="https://compassionate-leakey-e9b16b.netlify.app/">LIVE DEMO</a>
+### <a href="https://compassionate-leakey-e9b16b.netlify.app/">LIVE DEMO</a>
 
-## Description
-This is a ReactJS based personal resume website template for participants of The 6 Figure JavaScript ReactJS Challenge by Clever 
+### Description
+This is a ReactJS based personal resume website template for participants of The 6 Figure JavaScript ReactJS Challenge by Clever
 
-## Make it Your Own!
-#### PREREQUISITES:
+### Make it Your Own!
+##### PREREQUISITES:
 - Sign up for a Netlify account <a href='https://www.netlify.com'>HERE</a>
 - Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
-#### PROCEDURE:
+##### PROCEDURE:
 - Download the zip folder from Github and unzip it
 Here is the link to download zip 👉
 <a href='https://github.com/CleverProgrammers/react-portfolio'>HERE</a>
@@ -27,9 +29,9 @@ Here is the link to download zip 👉
 - DRAG AND DROP the BUILD folder on Netlify, your app is live now for the world to see
 
 
-## Credits
+### Credits
 
-#### All Credits Goes to Tim Baker <a href='https://github.com/tbakerx/react-resume-template'>Original Repo</a>
+##### All Credits Goes to Tim Baker <a href='https://github.com/tbakerx/react-resume-template'>Original Repo</a>
 
 
 
@@ -41,3 +43,33 @@ Header photo credit
 
 Testimonial photo credit
 <a href="https://unsplash.com/@samuelzeller?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Samuel Zeller</a>
+
+# Modified Version
+
+## Clever Programmer ReactJS Portfolio Template, modified by Asif Haider Khan      
+
+### 👇 WATCH THIS FIRST 👇
+### https://tinyurl.com/customizeReactPortfolio
+
+![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
+
+### <a href="https://compassionate-leakey-e9b16b.netlify.app/">LIVE DEMO</a>
+
+### Description
+This is a ReactJS based personal resume website template for participants of The 6 Figure JavaScript ReactJS Challenge by Clever
+
+
+### Credits
+
+##### All Credits Goes to Tim Baker <a href='https://github.com/tbakerx/react-resume-template'>Original Repo</a>
+
+
+
+HTML Design Template
+<a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by Styleshout</a>
+
+Header photo credit
+<a href="https://unsplash.com/@mischievous_penguins?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Casey Horner</a>
+
+Quotes photo credit
+<a href="https://www.pexels.com/photo/bonfire-burning-camp-campfire-1368382/">Photo by Vlad Bagacian from Pexels</a>
