@@ -12,7 +12,6 @@ function About (props) {
     var zip = props.data.address.zip;
     var phone= props.data.phone;
     var email = props.data.email;
-    var resumeDownload = props.data.resumedownload;
   }
 
   function handleDownload (event) {
