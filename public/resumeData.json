@@ -2,17 +2,17 @@
   "main": {
     "name": "Asif Haider Khan",
     "occupation": "Full Stack Developer",
-    "description": "Full Stack React Developer, also good with Python and Data Science",
+    "description": "Full Stack Developer, also good with Django, Laravel, DevOps and IoT",
     "image": "IG_Asif.jpg",
-    "bio": "I am Asif Haider Khan, I'm a Full Stack ReactJS Developer. Currently I'm not working anywhere, but am keen on the lookout for opportunities.",
-    "contactmessage": "Get in touch with me to receive further details, or if you want me to do project.",
+    "bio": "I am Asif Haider Khan, I'm a Full Stack Developer. Currently I'm working at a start up called Dokane Dokane Ad (DDAD), a subsidiary of The Boring Platform, where we work on Digitizing Out of Home Advertising in Bangladesh",
+    "contactmessage": "Get in touch with me to receive further details, or if you want me to do a project.",
     "email": "asif.haider995@gmail.com",
-    "phone": "+880 168 4656 163",
+    "phone": "+880 172 928 3597",
     "address": {
       "street": "18 Fake Street",
       "city": "Dhaka",
       "state": "Bangladesh",
-      "zip": "ABC 123"
+      "zip": "1212"
     },
     "website": "http://www.timbakerdev.com",
     "social": [
@@ -23,7 +23,7 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/asif-haider-khan-494582128/",
+        "url": "https://www.linkedin.com/in/asifhaider995/",
         "className": "fa fa-linkedin"
       },
       {
@@ -44,7 +44,7 @@
       {
         "school": "North South University",
         "degree": "B.Sc. in Computer Science and Engineering",
-        "graduated": "June 2020",
+        "graduated": "March 2021",
         "description": "GPA: 3.03/4.00"
       }
     ],
@@ -54,11 +54,17 @@
         "title": "Lead Graphics Designer",
         "years": "February 2013 - February 2014",
         "description": "Designing T-shirts and Web Content"
+      }, 
+      {
+        "company": "DDAD",
+        "title": "Full Stack Developer",
+        "years": "October 2020 - present",
+        "description": "In Charge of Full Stack Software Development, DevOps and IoT"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "ReactJS",
         "level": "75%"
       },
       {
@@ -70,7 +76,7 @@
         "level": "60%"
       },
       {
-        "name": "Figma",
+        "name": "Laravel",
         "level": "55%"
       },
       {
@@ -82,8 +88,8 @@
         "level": "80%"
       },
       {
-        "name": "MongoDB",
-        "level": "30%"
+        "name": "MySQL",
+        "level": "70%"
       },
       {
         "name": "PostgreSQL",
